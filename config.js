@@ -4,7 +4,7 @@ const chalk = require("chalk");
 
 //
 global.available = true;
-global.autoReadAll = false;
+global.autoReadAll = true;
 global.antitags = true;
 
 
@@ -12,8 +12,8 @@ global.antitags = true;
 global.autoTyping = false;                //auto tying by default off.
 global.autoRecord = true;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //This is the new variable for controlling status seen.
-global.autoreadgc = false;
+global.statusseen = true;                 //This is the new variable for controlling status seen.
+global.autoreadgc = true;
 
 
 //
@@ -21,13 +21,13 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94772108460", "+94772108460"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94772108460", "+94772108460"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94772108460"];
-global.OwnerName = "KUSHAN";
-global.BotName = "DARK SHAM";
-global.packname = "🦋 DARK SHAN 🦋";                             //Do not change.
-global.author = "KUSHAN";                               //Do not change.
+global.Owner = ["+923190401047"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+923190401047"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+923190401047"];
+global.OwnerName = "ՊԻ\ᴷᶤ͜ᵑᵍ☞⃟𝕮𝖚ͧ𝖙ͭ𝖊ͤ𝖇ⷡ𝖔ⷪ𝖞ꙷ ɨֆ 🔙";
+global.BotName = "𝕷↻ℭҠꌩ";
+global.packname = "CÜTÊ BOY🔥𝕷↻ℭҠꌩ";                             //Do not change.
+global.author = ".";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
